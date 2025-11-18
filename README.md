@@ -24,23 +24,23 @@ Aplicația este gândită să fie intuitivă, rapidă și captivantă.
 🧩 Caracteristici cheie
 1️⃣ Gameplay
 
--Generare întrebări în timp real folosind API
+        -Generare întrebări în timp real folosind API
 
--Alegerea dificultății: Ușor, Mediu, Greu
+        -Alegerea dificultății: Ușor, Mediu, Greu
 
--Categorii multiple: filme, muzică, cultură generală, sport etc.
+        -Categorii multiple: filme, muzică, cultură generală, sport etc.
 
--Răspunsuri randomizate
+        -Răspunsuri randomizate
 
--Feedback vizual corect/greșit
+        -Feedback vizual corect/greșit
 
 2️⃣ Timer animat
 
--Bară dinamică ce scade în timp real
+        -Bară dinamică ce scade în timp real
 
--Schimbare de culoare pe final pentru suspans
+        -Schimbare de culoare pe final pentru suspans
 
--Reset automat la fiecare întrebare
+        -Reset automat la fiecare întrebare
 
 3️⃣ Clasament evoluat
 
@@ -50,22 +50,22 @@ Aplicația este gândită să fie intuitivă, rapidă și captivantă.
 
 -Evidențiere profesională pentru:
 
-  -locul 1 (auriu)
+          -locul 1 (auriu)
 
-  -locul 2 (argint)
+          -locul 2 (argint)
 
-  -locul 3 (bronz)
+          -locul 3 (bronz)
 
 Informații salvate:
 
-  -nume jucător
+          -nume jucător
 
-  -scor
+          -scor
 
-  -dificultate
+          -dificultate
 
-  -categorie
+          -categorie
 
-  -limbă
+          -limbă
 
-  -dată
+          -dată

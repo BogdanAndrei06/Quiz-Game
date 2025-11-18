@@ -1,6 +1,6 @@
 # 🧠 React Quiz Game
 
-Un quiz modern, rapid și competitive-driven, realizat cu React.
+Un quiz modern si rapid realizat cu React.
 O experiență elegantă, animată și complet personalizabilă.
 
 🔥 Prezentare generală

@@ -21,7 +21,8 @@ Acest proiect este o aplicație de quiz construită de la zero, evoluată dintr-
 
 Aplicația este gândită să fie intuitivă, rapidă și captivantă.
 
-🧩 Caracteristici cheie
+🧩 Caracteristici cheie:
+
 1️⃣ Gameplay
 
         -Generare întrebări în timp real folosind API

@@ -70,3 +70,24 @@ Informații salvate:
           -limbă
 
           -dată
+📌 Task-uri împărțite
+
+Tănăsoiu Andrei-Bogdan:
+
+        -Gameplay
+
+        -Clasament
+
+        -README
+
+Tache Andrei:
+
+        -Clasament
+
+        -Design
+
+Păună Răzvan:
+
+        -Timer animat
+
+        -Design

@@ -7,17 +7,17 @@ O experiență elegantă, animată și complet personalizabilă.
 
 Acest proiect este o aplicație de quiz construită de la zero, evoluată dintr-un prototip simplu într-un joc complet cu:
 
-  -categorii tematice variate
+        -categorii tematice variate
 
-  -niveluri de dificultate
+        -niveluri de dificultate
 
-  -timer vizual animat
+        -timer vizual animat
 
-  -clasament dinamic
+        -clasament dinamic
 
-  -salvare automată a scorurilor
+        -salvare automată a scorurilor
 
-  -interfață premium, modernă și aerisită
+        -interfață premium, modernă și aerisită
 
 Aplicația este gândită să fie intuitivă, rapidă și captivantă.
 
